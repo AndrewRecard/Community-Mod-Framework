@@ -176,7 +176,7 @@ tlim_is_active_trigger = {
 }
 
 # Victoria 1877
-victoria-1877_is_active = {
+vic1877_is_active = {
     always = no
 }
 
